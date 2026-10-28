@@ -21,7 +21,7 @@ These scripts were written to solve real problems and may be helpful to others.
 
 ## Archived Projects
 
-The `archivedcoeds` folder contains archived code and projects.
+The `archivedcodes` folder contains archived code and projects.
 
 ## Requirements
 
