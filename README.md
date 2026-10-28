@@ -2,6 +2,8 @@
 
 A collection of useful standalone Python and JavaScript utility scripts.
 
+This repository is also used to archive my projects.
+
 These scripts were written to solve real problems and may be helpful to others.
 
 ## Scripts
@@ -16,6 +18,10 @@ These scripts were written to solve real problems and may be helpful to others.
 | `audio_loudness_analyzer.py` | Analyzes WAV audio loudness (dBFS) and peak levels. |
 | `scratch_list_range_extension.js` | Scratch 3.0 custom extension: "list items FROM to TO of LIST joined by SEP" block. |
 | `cookie_run_guild_tracker.py` | Tracks Cookie Run Kingdom guild officer / contribution data. |
+
+## Archived Projects
+
+The `archivedcoeds` folder contains archived code and projects.
 
 ## Requirements
 
