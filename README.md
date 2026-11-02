@@ -59,7 +59,3 @@ MIT License — free to use, modify, and share.
 - Some scripts contain hardcoded paths from the original environment (e.g. Android storage paths). Adjust them as needed.
 - The Brawl Stars script requires your own API token and proper IP allowlisting on the developer portal.
 - Use the Wi-Fi password script only on devices you own / have permission to access.
-
----
-
-Want the full longer versions (chess PGN analyzer, Minecraft MCA readers, bytes-to-Minecraft world converter, more complete number namer, etc.)? Just tell me which ones and I will add them.
